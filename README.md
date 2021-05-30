@@ -1,65 +1,36 @@
 ### Flappy-Bird-Clone
-https://editor.p5js.org/mehultodi116/present/925FR8Xn5
----
- layout: post
- title: "FlappyBirdClone"
- description: "A clone of the famous game of Flappy Bird using p5.js."
----
 
 ### Mentors
-- Aditya Chirania 
-- Niranjan S Yadiyala
-- Praveen Reddy
+- Chaitanya
+- Suresh
+- Kinshuk
 
 ### Members
-- Chaithanya Shyam
-- Janmansh Agarwal
+- Mehul
+- Shifali
+- Shrinidhi
+- Tejas
 
 # Introduction
-CodePal is a Visual Studio Code Extension to help **Codeforces** Users ***Code with Convenience.*** This extension is specially for people who want to save time in a live Codeforces contest and up-solve problems comfortably. This extension responds quickly to users. It can swiftly filter through the problem list by specifying tags and ratings, create folders for contests and problems containing sample tests of each problem in them and compile and run tests automatically. For added convenience we've created buttons to directly open problem statements and submission pages on the default browser. 
+It is a simple clone of the famous game of Flappy Bird using p5.js. 
 
 # Brief Overview of Technologies Used
 
-### NodeJS
+### HTML5
+- HTML5 is a markup language used for structuring and presenting content on the World Wide Web. It is the fifth and last major HTML version that is a World Wide Web Consortium (W3C) recommendation. The current specification is known as the HTML Living Standard. It is maintained by a consortium of the major browser vendors (Apple, Google, Mozilla, and Microsoft), the Web Hypertext Application Technology Working Group (WHATWG).
 
-- Node.js is an open-source, cross-platform, back-end, [JavaScript](https://en.wikipedia.org/wiki/JavaScript) runtime environment that runs on the [V8 engine](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)) and executes JavaScript code outside a [web browser](https://en.wikipedia.org/wiki/Web_browser). Node.js lets us use JavaScript to write command line tools and for [server-side scripting](https://en.wikipedia.org/wiki/Server-side_scripting)—running scripts server-side to produce [dynamic web page](https://en.wikipedia.org/wiki/Dynamic_web_page) content before the page is sent to the user's web browser. In our case to the VSCode editor.
-- It is only with NodeJS we can perform API calls to Codeforces to get all the features of our extensions. We also use NodeJS to web scrape data from the internet.
+### CSS3
+- Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
 
-### Codeforces API
+### JS
+- JavaScript, often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.
 
-- The [Codeforces API](https://codeforces.com/apiHelp) is extremely useful and the bulk of our features perform API calls to Codeforces to get useful information. 
-- But it does not provide everything. Our extension uses a small amount of web scraping of the Codeforces website to get the data the API does not provide for example test cases for a problem. 
-- The documentation of the Codeforces API is small but clear.
-
-### TypeScript
-
-- [TypeScript](https://www.typescriptlang.org) is a typed superset of JavaScript that compiles to plain JavaScript. It offers classes, modules, and interfaces to help you build robust  components. 
-- TypeScript code is transformed into JavaScript code via the TypeScript compiler or [Babel](https://babeljs.io/). This JavaScript is clean, simple code which runs anywhere JavaScript runs: In a browser, on Node.JS or in  apps. In our case the final JavaScript file will run on Node.JS.
-- Since  there is compilation, TypeScript makes it much easier to debug your code compared to JavaScript. 
-
-### VS Code API
-
-- This is the main reason why VS Code is popular. The [VS Code API](https://code.visualstudio.com/api) has a plethora of useful features that not only give us a lot of control over the environment but also make it quite easy for us to understand and code.
-- The organised tree-view, context menus, key-bindings, input boxes etc. are some of the API features that have been used in this extension.
-- It cannot be stressed enough how important and useful VS Code API TypeScript documentation is. It is concise, clean and extremely informative. It was heavily referred in this project.
-
+### p5.js
+- p5.js is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else! p5.js is free and open-source because we believe software, and the tools to learn it, should be accessible to everyone.
+- Using the metaphor of a sketch, p5.js has a full set of drawing functionality. However, you’re not limited to your drawing canvas. You can think of your whole browser page as your sketch, including HTML5 objects for text, input, video, webcam, and sound.
 
 # Demo 
-### Enter Handle in settings and view problems, contests and profile, with submission status on each problem
-![Promo1](https://github.com/IEEE-NITK/CodePal/raw/master/res/GIFS/Demo0.gif)
-
-
-### Create Problem/Contest Folders inclusive of all sample tests, compile and run automatically, get comprehensive verdicts and view problem statement and submission webpages. 
-![Promo2](https://github.com/IEEE-NITK/CodePal/raw/master/res/GIFS/Demo1.gif)
-
-
-### Filter Through Problems
-![Promo2](https://github.com/IEEE-NITK/CodePal/raw/master/res/GIFS/Demo2.gif)
-
-
-### Stress Testing your Code
-![Promo2](https://github.com/IEEE-NITK/CodePal/raw/master/res/GIFS/Demo3.gif)
-
+- https://editor.p5js.org/mehultodi116/present/925FR8Xn5
 
 # Features of the Extension and Their Implementation Details
 
