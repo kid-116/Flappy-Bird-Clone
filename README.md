@@ -1,20 +1,20 @@
-### Flappy-Bird-Clone
+# Flappy-Bird-Clone
 
-### Mentors
+## Mentors
 - Chaitanya
 - Suresh
 - Kinshuk
 
-### Members
+## Members
 - Mehul
 - Shifali
 - Shrinidhi
 - Tejas
 
-# Introduction
+## Introduction
 It is a simple clone of the famous game of Flappy Bird using p5.js. 
 
-# Brief Overview of Technologies Used
+## Brief Overview of Technologies Used
 
 ### HTML5
 - HTML5 is a markup language used for structuring and presenting content on the World Wide Web. It is the fifth and last major HTML version that is a World Wide Web Consortium (W3C) recommendation. The current specification is known as the HTML Living Standard. It is maintained by a consortium of the major browser vendors (Apple, Google, Mozilla, and Microsoft), the Web Hypertext Application Technology Working Group (WHATWG).
@@ -29,7 +29,7 @@ It is a simple clone of the famous game of Flappy Bird using p5.js.
 - p5.js is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else! p5.js is free and open-source because we believe software, and the tools to learn it, should be accessible to everyone.
 - Using the metaphor of a sketch, p5.js has a full set of drawing functionality. However, you’re not limited to your drawing canvas. You can think of your whole browser page as your sketch, including HTML5 objects for text, input, video, webcam, and sound.
 
-# Demo 
+## Demo 
 - https://editor.p5js.org/mehultodi116/present/925FR8Xn5
 
 # Features of the Extension and Their Implementation Details
