@@ -61,6 +61,9 @@ confirm their project status online itself.
 
 ## Demo 
 - https://editor.p5js.org/mehultodi116/present/925FR8Xn5
+- https://editor.p5js.org/shifalirs18/present/mn_yFEt8I
+- https://editor.p5js.org/Shrinidhi123/full/hc_g5XztA
+- https://editor.p5js.org/sankpaltejas343/present/oIexeb5Ud
 
 ## Controls
 - Right mouse click to make the bird jump.
